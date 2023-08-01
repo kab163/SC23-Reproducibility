@@ -5,7 +5,7 @@ ReadMe for describing how to use Umpire's ML tool:
 
 ## 0) Before starting, set up your permissions
 
-Start by emailing the Umpire team at ```umpire-dev@llnl.gov``` and cc Sam Schwartz at ```sam@cs.uoregon.edu```
+Start by emailing the Umpire team at ```umpire-dev@llnl.gov``` and cc Sam Schwartz at ```sam@cs.uoregon.edu```.
 We can make sure you get set up with everything you'll need and all the permissions are granted.
 
 ## 1) Build umpire, specifically against a particular hash
